@@ -1,0 +1,48 @@
+﻿@model AddressViewModel
+@{
+    ViewData["Title"] = "Account Details";
+}
+
+<section class="address-account">
+    <div class="container">
+
+        <form method="post" asp-controller="Auth" asp-action="Address-Details">
+            
+            <div class="form-content">
+
+                <div class="input-first_address input-group">
+                    <label class="input-label" asp-for="Adress_1"></label>
+                    <input asp-for="Adress_1" />
+                    <span asp-validation-for="Adress_1"></span>
+                </div>
+
+                <div class="input-second_address input-group">
+                    <label class="input-label" asp-for="Adress_2"></label>
+                    <input asp-for="Adress_2" />
+                    <span asp-validation-for="Adress_2"></span>
+                </div>
+
+                <div class="input-postal_code input-group">
+                    <label class="input-label" asp-for="PostalCode"></label>
+                    <input asp-for="PostalCode" />
+                    <span asp-validation-for="PostalCode"></span>
+                </div>
+
+                <div class="input-city input-group">
+                    <label class="input-label" asp-for="City"></label>
+                    <input asp-for="City" />
+                    <span asp-validation-for="City"></span>
+                </div>
+                <div class="input-cancel">
+                    <button class="cancel" type="submit">Cancel</button>
+                </div>
+
+                <button class="btn btn-theme" type="submit">save change</button>
+
+
+            </div>
+        </form>
+
+
+    </div>
+</section>

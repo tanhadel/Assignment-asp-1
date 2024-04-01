@@ -1,0 +1,57 @@
+﻿@model AccountdetailsViewModel
+@{
+    ViewData["Title"] = "Account Details";
+}
+
+<section class="Account">
+    <div class="container">
+
+        <form method="post" asp-controller="Auth" asp-action="accountdetails">
+            <h1>Account Details</h1>
+            <h4>Basic Info</h4>
+            <div class="form-content">
+
+                <div class="input-f input-group">
+                    <label class="input-label" asp-for="FirstName"></label>
+                    <input asp-for="FirstName" />
+                    <span asp-validation-for="FirstName"></span>
+                </div>
+
+                <div class="input-lastname input-group">
+                    <label class="input-label" asp-for="LastName"></label>
+                    <input asp-for="LastName" />
+                    <span asp-validation-for="LastName"></span>
+                </div>
+
+                <div class="input-email input-group">
+                    <label class="input-label" asp-for="Email"></label>
+                    <input asp-for="Email" />
+                    <span asp-validation-for="Email"></span>
+                </div>
+
+                <div class="input-phone input-group">
+                    <label class="input-label" asp-for="PhoneNumber"></label>
+                    <input asp-for="PhoneNumber" />
+                    <span asp-validation-for="PhoneNumber"></span>
+                </div>
+                <div class="input-bio input-group">
+                    <label class="input-label" asp-for="Bio"></label>
+                    <input asp-for="Bio" />
+                    <span asp-validation-for="Bio"></span>
+                </div>
+                <div class="input-cancel">
+                    <button class="cancel" type="s">Cancel</button>
+                </div>
+
+                <div class="input-submit">
+                    <button class="btn btn-theme" type="submit">save change</button>
+
+                </div>
+
+            </div>
+        </form>
+
+
+    </div>
+</section>
+
