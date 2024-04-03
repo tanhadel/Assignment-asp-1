@@ -1,0 +1,249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\_cores.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_cores.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\_sections.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_sections.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\components\\_boxes.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_boxes.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\components\\_switchs.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_switchs.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\components\\_title.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_title.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\cores\\_common.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_common.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\cores\\_media.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_media.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_accountdetails.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_accountdetails.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_addressdetails.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_addressdetails.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_content.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_content.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_coursespage.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_coursespage.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_features.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_features.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_showcase.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_showcase.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_signin.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signin.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_signup.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signup.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_subscribe.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_subscribe.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\scss\\sections\\_tools.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_tools.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\Second-content\\MailChimp.svg",
+      "PackagePath": "staticwebassets\\images\\Second-content\\MailChimp.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\Second-content\\Zoom.svg",
+      "PackagePath": "staticwebassets\\images\\Second-content\\Zoom.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\Second-content\\color-icon.svg",
+      "PackagePath": "staticwebassets\\images\\Second-content\\color-icon.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\Second-content\\email-io.svg",
+      "PackagePath": "staticwebassets\\images\\Second-content\\email-io.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\Second-content\\tools-el.svg",
+      "PackagePath": "staticwebassets\\images\\Second-content\\tools-el.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\Second-content\\tools-fe.svg",
+      "PackagePath": "staticwebassets\\images\\Second-content\\tools-fe.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\Second-content\\tools-googel.svg",
+      "PackagePath": "staticwebassets\\images\\Second-content\\tools-googel.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\Second-content\\tools-icon.svg",
+      "PackagePath": "staticwebassets\\images\\Second-content\\tools-icon.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\account-img\\avatar.svg",
+      "PackagePath": "staticwebassets\\images\\account-img\\avatar.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\apps\\app-image.svg",
+      "PackagePath": "staticwebassets\\images\\apps\\app-image.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\apps\\appstore.svg",
+      "PackagePath": "staticwebassets\\images\\apps\\appstore.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\apps\\googleplay.svg",
+      "PackagePath": "staticwebassets\\images\\apps\\googleplay.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\apps\\rating (1).svg",
+      "PackagePath": "staticwebassets\\images\\apps\\rating (1).svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\apps\\rating.svg",
+      "PackagePath": "staticwebassets\\images\\apps\\rating.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\brands\\logo (1).svg",
+      "PackagePath": "staticwebassets\\images\\brands\\logo (1).svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\brands\\logo (2).svg",
+      "PackagePath": "staticwebassets\\images\\brands\\logo (2).svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\brands\\logo (3).svg",
+      "PackagePath": "staticwebassets\\images\\brands\\logo (3).svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\brands\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\logo.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\content\\bx-check-circle.svg",
+      "PackagePath": "staticwebassets\\images\\content\\bx-check-circle.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\content\\content-image.svg",
+      "PackagePath": "staticwebassets\\images\\content\\content-image.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\cours-img\\group-img.svg",
+      "PackagePath": "staticwebassets\\images\\cours-img\\group-img.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\image-tools-features\\add-group.svg",
+      "PackagePath": "staticwebassets\\images\\image-tools-features\\add-group.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\image-tools-features\\bell.svg",
+      "PackagePath": "staticwebassets\\images\\image-tools-features\\bell.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\image-tools-features\\chat.svg",
+      "PackagePath": "staticwebassets\\images\\image-tools-features\\chat.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\image-tools-features\\presentation.svg",
+      "PackagePath": "staticwebassets\\images\\image-tools-features\\presentation.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\image-tools-features\\shield.svg",
+      "PackagePath": "staticwebassets\\images\\image-tools-features\\shield.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\image-tools-features\\tests.svg",
+      "PackagePath": "staticwebassets\\images\\image-tools-features\\tests.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\logotype.svg",
+      "PackagePath": "staticwebassets\\images\\logotype.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\subscribe-img\\Group.svg",
+      "PackagePath": "staticwebassets\\images\\subscribe-img\\Group.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\images\\taskmaster\\image.svg",
+      "PackagePath": "staticwebassets\\images\\taskmaster\\image.svg"
+    },
+    {
+      "Id": "C:\\Assingment-asp-1\\Silicon\\Assignment\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Assignment.props",
+      "PackagePath": "build\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment.props",
+      "PackagePath": "buildMultiTargeting\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Assignment.props",
+      "PackagePath": "buildTransitive\\Assignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,15 @@
+C:\Assingment-asp-1\Silicon\Infratracture\bin\Debug\net8.0\Infrastracture.deps.json
+C:\Assingment-asp-1\Silicon\Infratracture\bin\Debug\net8.0\Infrastracture.runtimeconfig.json
+C:\Assingment-asp-1\Silicon\Infratracture\bin\Debug\net8.0\Infrastracture.dll
+C:\Assingment-asp-1\Silicon\Infratracture\bin\Debug\net8.0\Infrastracture.pdb
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\Infrastracture.csproj.AssemblyReference.cache
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\Infrastracture.AssemblyInfoInputs.cache
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\Infrastracture.AssemblyInfo.cs
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\Infrastracture.csproj.CoreCompileInputs.cache
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\Infrastracture.sourcelink.json
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\Infrastracture.dll
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\refint\Infrastracture.dll
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\Infrastracture.pdb
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\Infrastracture.genruntimeconfig.cache
+C:\Assingment-asp-1\Silicon\Infratracture\obj\Debug\net8.0\ref\Infrastracture.dll
